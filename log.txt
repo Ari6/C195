@@ -1,0 +1,160 @@
+2019-08-13T16:45:36.743-07:00[America/Los_Angeles],0:null,Login Error
+2019-08-13T16:45:46.464-07:00[America/Los_Angeles],1:test,Login
+2019-08-13T16:46:41.960-07:00[America/Los_Angeles],0:null,Login Error
+2019-08-13T16:46:44.899-07:00[America/Los_Angeles],1:test,Login
+2019-08-13T17:03:15.303-07:00[America/Los_Angeles],1:test,Login
+2019-08-13T17:03:18.724-07:00[America/Los_Angeles],1:test,Deleted an appointment appointmentId = 10
+2019-08-13T17:11:44.595-07:00[America/Los_Angeles],0:null,Logout
+2019-08-13T17:12:10.655-07:00[America/Los_Angeles],1:test,Login
+2019-08-13T17:12:17.171-07:00[America/Los_Angeles],1:test,Deleted an appointment appointmentId = 11
+2019-08-13T17:12:47.880-07:00[America/Los_Angeles],1:test,Added an appointment record0
+2019-08-13T17:14:46.716-07:00[America/Los_Angeles],0:null,Logout
+2019-08-13T17:17:52.054-07:00[America/Los_Angeles],1:test,Login
+2019-08-13T18:35:10.876-07:00[America/Los_Angeles],1:test,Login
+2019-08-13T18:38:13.067-07:00[America/Los_Angeles],1:test,Login
+2019-08-13T18:38:49.578-07:00[America/Los_Angeles],0:null,Logout
+2019-08-13T18:57:08.706-07:00[America/Los_Angeles],1:test,Login
+2019-08-13T18:58:16.764-07:00[America/Los_Angeles],0:null,Logout
+2019-08-13T18:58:31.341-07:00[America/Los_Angeles],1:test,Login
+2019-08-13T19:00:39.524-07:00[America/Los_Angeles],0:null,Logout
+2019-08-13T19:33:34.257-07:00[America/Los_Angeles],1:test,Login
+2019-08-13T19:34:35.831-07:00[America/Los_Angeles],0:null,Logout
+2019-08-13T19:34:50.820-07:00[America/Los_Angeles],1:test,Login
+2019-08-13T19:35:41.036-07:00[America/Los_Angeles],0:null,Logout
+2019-08-13T19:37:43.203-07:00[America/Los_Angeles],1:test,Login
+2019-08-13T19:38:05.640-07:00[America/Los_Angeles],0:null,Logout
+2019-08-14T07:09:35.830-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T07:11:30.131-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T07:12:04.126-07:00[America/Los_Angeles],0:null,Logout
+2019-08-14T07:12:13.378-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T07:13:22.150-07:00[America/Los_Angeles],0:null,Logout
+2019-08-14T07:21:18.149-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T07:21:30.170-07:00[America/Los_Angeles],0:null,Logout
+2019-08-14T07:32:23.526-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T07:33:37.195-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T07:43:14.097-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T07:44:35.372-07:00[America/Los_Angeles],0:null,Logout
+2019-08-14T08:15:32.365-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T08:16:35.821-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T08:17:06.819-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T08:20:00.834-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T08:21:09.953-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T08:23:16.009-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T08:23:34.021-07:00[America/Los_Angeles],0:null,Logout
+2019-08-14T08:24:01-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T08:24:08.539-07:00[America/Los_Angeles],0:null,Logout
+2019-08-14T08:26:24.612-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T08:27:50.251-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T08:29:05.819-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T08:29:58.267-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T08:32:10.476-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T08:32:41.783-07:00[America/Los_Angeles],0:null,Logout
+2019-08-14T08:32:51.626-07:00[America/Los_Angeles],2:ss,Login
+2019-08-14T08:33:27.387-07:00[America/Los_Angeles],2:ss,Added an appointment record
+2019-08-14T08:33:37.489-07:00[America/Los_Angeles],0:null,Logout
+2019-08-14T08:33:44.784-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T08:33:59.733-07:00[America/Los_Angeles],0:null,Logout
+2019-08-14T09:04:34.672-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T09:05:32.693-07:00[America/Los_Angeles],0:null,Logout
+2019-08-14T09:16:52.313-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T09:23:59.562-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T09:50:10.644-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T09:50:33.171-07:00[America/Los_Angeles],0:null,Logout
+2019-08-14T09:53:41.215-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T10:01:01.249-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T10:01:17.888-07:00[America/Los_Angeles],0:null,Logout
+2019-08-14T10:01:41.981-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T10:01:48.514-07:00[America/Los_Angeles],0:null,Logout
+2019-08-14T10:01:56.764-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T10:13:37.594-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T10:14:18.907-07:00[America/Los_Angeles],1:test,Added an appointment record
+2019-08-14T10:14:21.701-07:00[America/Los_Angeles],0:null,Logout
+2019-08-14T10:14:25.652-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T10:14:56.777-07:00[America/Los_Angeles],0:null,Logout
+2019-08-14T10:15:08.810-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T10:15:24.663-07:00[America/Los_Angeles],1:test,Updated an appointment record appointId = 16
+2019-08-14T10:15:38.354-07:00[America/Los_Angeles],1:test,Updated an appointment record appointId = 16
+2019-08-14T10:16:03.558-07:00[America/Los_Angeles],0:null,Logout
+2019-08-14T10:17:55.172-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T10:18:02.228-07:00[America/Los_Angeles],0:null,Logout
+2019-08-14T12:15:53.926-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T12:18:11.235-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T12:18:21.214-07:00[America/Los_Angeles],1:test,Added a customer record
+2019-08-14T12:18:32.873-07:00[America/Los_Angeles],1:test,Updated a customer record customerId = 9
+2019-08-14T12:18:41.799-07:00[America/Los_Angeles],1:test,Updated a customer record customerId = 9
+2019-08-14T12:41:45.973-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T12:43:45.444-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T12:44:22.802-07:00[America/Los_Angeles],0:null,Logout
+2019-08-14T12:44:29.965-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T12:44:42.522-07:00[America/Los_Angeles],1:test,Added a customer record
+2019-08-14T12:45:02.119-07:00[America/Los_Angeles],1:test,Updated a customer record customerId = 10
+2019-08-14T13:39:33.801-07:00[America/Los_Angeles],0:null,Login Error
+2019-08-14T14:52:37.066-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T14:53:21.875-07:00[America/Los_Angeles],1:test,Added an appointment record
+2019-08-14T14:53:42.826-07:00[America/Los_Angeles],1:test,Updated an appointment record appointId = 6
+2019-08-14T14:54:56.043-07:00[America/Los_Angeles],1:test,Updated an appointment record appointId = 6
+2019-08-14T14:56:44.756-07:00[America/Los_Angeles],0:null,Logout
+2019-08-14T14:56:54.586-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T14:57:03.963-07:00[America/Los_Angeles],1:test,Updated an appointment record appointId = 21
+2019-08-14T14:57:14.765-07:00[America/Los_Angeles],1:test,Updated an appointment record appointId = 21
+2019-08-14T14:57:26.009-07:00[America/Los_Angeles],1:test,Updated an appointment record appointId = 6
+2019-08-14T14:57:36.392-07:00[America/Los_Angeles],1:test,Updated an appointment record appointId = 6
+2019-08-14T15:01:25.792-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T15:01:50.844-07:00[America/Los_Angeles],1:test,Updated an appointment record appointId = 6
+2019-08-14T15:03:13.435-07:00[America/Los_Angeles],1:test,Updated an appointment record appointId = 6
+2019-08-14T15:07:27.878-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T15:07:56.967-07:00[America/Los_Angeles],1:test,Added an appointment record
+2019-08-14T15:11:22.875-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T15:11:30.455-07:00[America/Los_Angeles],1:test,Deleted an appointment appointmentId = 22
+2019-08-14T15:13:33.639-07:00[America/Los_Angeles],0:null,Logout
+2019-08-14T15:13:43.871-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T15:18:01.155-07:00[America/Los_Angeles],0:null,Logout
+2019-08-14T15:18:11.368-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T15:19:46.651-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T15:20:04.113-07:00[America/Los_Angeles],1:test,Updated an appointment record appointId = 21
+2019-08-14T15:22:43.517-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T15:31:12.509-07:00[America/Los_Angeles],1:test,Updated an appointment record appointId = 21
+2019-08-14T15:31:21.468-07:00[America/Los_Angeles],1:test,Updated an appointment record appointId = 6
+2019-08-14T15:32:09.679-07:00[America/Los_Angeles],1:test,Updated an appointment record appointId = 21
+2019-08-14T15:37:45.538-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T15:37:54.454-07:00[America/Los_Angeles],1:test,Updated an appointment record appointId = 21
+2019-08-14T15:38:48.302-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T15:39:28.058-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T15:39:50.330-07:00[America/Los_Angeles],1:test,Updated an appointment record appointId = 21
+2019-08-14T15:45:50.424-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T15:47:00.047-07:00[America/Los_Angeles],1:test,Added an appointment record
+2019-08-14T15:53:23.316-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T15:53:58.078-07:00[America/Los_Angeles],1:test,Added an appointment record
+2019-08-14T15:54:40.820-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T15:54:56.634-07:00[America/Los_Angeles],1:test,Updated an appointment record appointId = 24
+2019-08-14T15:55:08.539-07:00[America/Los_Angeles],1:test,Updated an appointment record appointId = 24
+2019-08-14T15:59:11.207-07:00[America/Los_Angeles],0:null,Logout
+2019-08-14T15:59:20.171-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T16:00:23.427-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T16:00:59.416-07:00[America/Los_Angeles],1:test,Added an appointment record
+2019-08-14T16:01:23.927-07:00[America/Los_Angeles],1:test,Updated an appointment record appointId = 25
+2019-08-14T16:42:51.903-07:00[America/Los_Angeles],1:test,Updated an appointment record appointId = 25
+2019-08-14T16:50:28.915-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T16:50:55.068-07:00[America/Los_Angeles],1:test,Deleted an appointment appointmentId = 25
+2019-08-14T16:53:36.631-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T17:14:09.600-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T17:14:21.184-07:00[America/Los_Angeles],1:test,Added a customer record
+2019-08-14T17:14:24.996-07:00[America/Los_Angeles],1:test,Deleted a customer recoed customerId = 14
+2019-08-14T17:18:42.002-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T17:18:49.829-07:00[America/Los_Angeles],1:test,Updated a customer record customerId = 13
+2019-08-14T17:18:59.972-07:00[America/Los_Angeles],1:test,Updated a customer record customerId = 13
+2019-08-14T17:19:03.904-07:00[America/Los_Angeles],0:null,Logout
+2019-08-14T17:19:49.251-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T17:19:55.689-07:00[America/Los_Angeles],1:test,Updated a customer record customerId = 13
+2019-08-14T17:22:13.482-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T17:23:08.890-07:00[America/Los_Angeles],1:test,Updated a customer record customerId = 13
+2019-08-14T17:23:51.002-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T17:25:40.286-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T17:25:49.851-07:00[America/Los_Angeles],1:test,Updated a customer record customerId = 7
+2019-08-14T17:26:02.354-07:00[America/Los_Angeles],1:test,Updated a customer record customerId = 13
+2019-08-14T17:26:57.213-07:00[America/Los_Angeles],1:test,Updated a customer record customerId = 13
+2019-08-14T17:29:42.016-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T17:29:58.485-07:00[America/Los_Angeles],1:test,Updated a customer record customerId = 13
+2019-08-14T17:30:19.764-07:00[America/Los_Angeles],1:test,Added a customer record
+2019-08-14T17:30:44.530-07:00[America/Los_Angeles],1:test,Login
+2019-08-14T17:31:00.936-07:00[America/Los_Angeles],1:test,Added a customer record

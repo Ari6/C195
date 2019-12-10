@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.geometry.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<GridPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="513.0" prefWidth="922.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controller.CalendarController">
+  <columnConstraints>
+      <ColumnConstraints hgrow="SOMETIMES" maxWidth="139.0" minWidth="10.0" prefWidth="63.0" />
+      <ColumnConstraints hgrow="SOMETIMES" maxWidth="270.0" minWidth="10.0" prefWidth="257.0" />
+      <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+      <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+    <ColumnConstraints hgrow="SOMETIMES" maxWidth="167.0" minWidth="10.0" prefWidth="125.0" />
+    <ColumnConstraints hgrow="SOMETIMES" maxWidth="181.0" minWidth="10.0" prefWidth="181.0" />
+  </columnConstraints>
+  <rowConstraints>
+      <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+      <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+      <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+      <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+  </rowConstraints>
+   <children>
+      <Button fx:id="addButton" mnemonicParsing="false" onAction="#addButtonOnAction" prefHeight="25.0" prefWidth="51.0" text="Add" GridPane.columnIndex="5" GridPane.rowIndex="2">
+         <GridPane.margin>
+            <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+         </GridPane.margin>
+      </Button>
+      <Button fx:id="editButton" mnemonicParsing="false" onAction="#editButtonOnAction" prefHeight="25.0" prefWidth="50.0" text="Edit" GridPane.columnIndex="5" GridPane.halignment="CENTER" GridPane.rowIndex="2">
+         <GridPane.margin>
+            <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+         </GridPane.margin>
+      </Button>
+      <Button fx:id="deleteButton" mnemonicParsing="false" onAction="#deleteButtonOnAction" text="Delete" GridPane.columnIndex="5" GridPane.halignment="RIGHT" GridPane.rowIndex="2">
+         <GridPane.margin>
+            <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+         </GridPane.margin>
+      </Button>
+      <TableView fx:id="appointmentTable" prefHeight="200.0" prefWidth="200.0" GridPane.columnIndex="1" GridPane.columnSpan="4" GridPane.rowIndex="2" GridPane.rowSpan="4">
+        <columns>
+          <TableColumn fx:id="start" prefWidth="140.0" text="Start" />
+          <TableColumn fx:id="end" prefWidth="124.0" text="End" />
+            <TableColumn fx:id="title" prefWidth="172.0" text="Title" />
+            <TableColumn fx:id="location" prefWidth="145.0" text="Location" />
+            <TableColumn fx:id="type" prefWidth="74.0" text="Type" />
+        </columns>
+      </TableView>
+      <Button fx:id="customerButton" mnemonicParsing="false" onAction="#customerButtonOnAction" prefHeight="25.0" prefWidth="87.0" text="Customer" GridPane.columnIndex="5" GridPane.halignment="CENTER" GridPane.rowIndex="3" />
+      <Button fx:id="logoutButton" mnemonicParsing="false" onAction="#logoutButtonOnAction" prefHeight="25.0" prefWidth="87.0" text="Logout" GridPane.columnIndex="5" GridPane.halignment="CENTER" />
+      <Label prefHeight="27.0" prefWidth="105.0" text="Calendar" textFill="#081979" GridPane.halignment="CENTER">
+         <font>
+            <Font size="18.0" />
+         </font>
+         <GridPane.margin>
+            <Insets left="10.0" />
+         </GridPane.margin>
+      </Label>
+      <Label fx:id="nameLabel" prefHeight="23.0" prefWidth="129.0" GridPane.columnIndex="1">
+         <font>
+            <Font size="14.0" />
+         </font></Label>
+      <ChoiceBox fx:id="choiceBox" prefWidth="150.0" GridPane.columnIndex="4" GridPane.halignment="CENTER" />
+      <Button fx:id="previousButton" mnemonicParsing="false" onAction="#previousButtonOnAction" text="Previous" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+      <Button fx:id="nextButton" mnemonicParsing="false" onAction="#nextButtonOnAction" text="Next" GridPane.columnIndex="4" GridPane.halignment="RIGHT" GridPane.rowIndex="1" />
+      <Label fx:id="message" prefHeight="20.0" prefWidth="539.0" textFill="#ee0909" GridPane.columnIndex="1" GridPane.columnSpan="5" GridPane.rowIndex="6">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <Button fx:id="todayButton" mnemonicParsing="false" onAction="#todayButtonOnAction" text="Today" GridPane.columnIndex="2" GridPane.halignment="CENTER" GridPane.rowIndex="1" />
+      <Label fx:id="baseDate" prefHeight="17.0" prefWidth="212.0" GridPane.columnIndex="2" GridPane.columnSpan="2" />
+      <VBox prefHeight="200.0" prefWidth="100.0" GridPane.columnIndex="5" GridPane.rowIndex="4" GridPane.rowSpan="2">
+         <children>
+            <Label prefHeight="17.0" prefWidth="86.0" text="Make reports" />
+            <ChoiceBox fx:id="report" prefWidth="150.0">
+               <VBox.margin>
+                  <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+               </VBox.margin>
+            </ChoiceBox>
+            <Label text="Consultant" />
+            <ChoiceBox fx:id="consultant" prefWidth="150.0">
+               <VBox.margin>
+                  <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+               </VBox.margin>
+            </ChoiceBox>
+            <Button fx:id="runButton" alignment="CENTER" mnemonicParsing="false" onAction="#runOnAction" text="Run Report">
+               <VBox.margin>
+                  <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+               </VBox.margin>
+            </Button>
+         </children>
+      </VBox>
+   </children>
+</GridPane>
